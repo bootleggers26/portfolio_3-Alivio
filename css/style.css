@@ -817,6 +817,9 @@ body {
   .h2__right {
     font-size: 40px;
   }
+  .background {
+    background-position: -738px center;
+  }
 }
 @media screen and (max-width: 560px) {
   .mini-blok {
@@ -837,6 +840,9 @@ body {
   .flex__footer {
     margin-left: 0;
     align-items: center;
+  }
+  .background {
+    background-position: -925px center;
   }
 }
 @media (max-width: 430px) {
